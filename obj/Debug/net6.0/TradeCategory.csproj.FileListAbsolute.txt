@@ -1,0 +1,15 @@
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.csproj.AssemblyReference.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.AssemblyInfoInputs.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.AssemblyInfo.cs
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.csproj.CoreCompileInputs.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategory.exe
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategory.deps.json
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategory.runtimeconfig.json
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategory.dll
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategory.pdb
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.dll
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\refint\TradeCategory.dll
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.pdb
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategory.genruntimeconfig.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\ref\TradeCategory.dll

@@ -1,0 +1,15 @@
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.exe
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.deps.json
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.runtimeconfig.json
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.dll
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\bin\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.pdb
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.csproj.AssemblyReference.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.GeneratedMSBuildEditorConfig.editorconfig
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.AssemblyInfoInputs.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.AssemblyInfo.cs
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.csproj.CoreCompileInputs.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.dll
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\refint\TradeCategoryQuestion_ViniciusLeal.dll
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.pdb
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\TradeCategoryQuestion_ViniciusLeal.genruntimeconfig.cache
+D:\_PROJETOS\REPOSITORIO\TradeCategoryQuestion_ViniciusLeal\obj\Debug\net6.0\ref\TradeCategoryQuestion_ViniciusLeal.dll
