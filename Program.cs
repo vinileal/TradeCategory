@@ -43,6 +43,7 @@ class Promgram
                 Console.ForegroundColor = ConsoleColor.Blue;
                 Console.WriteLine("Create a 'PoliticallyExposedPerson' method that returns a 'bool' in the class that implements an interface ITrade, however, depend to the characteristics of this classification, it is necessary to create another class implementing the ITrade interface.");
                 Console.ResetColor();
+                MenuOption();
             }
             else
                 MenuOption();
